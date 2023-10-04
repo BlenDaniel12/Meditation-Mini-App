@@ -1,7 +1,7 @@
 # Meditation-Mini-App
 It used for meditation count down.
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Meditation App</title>
